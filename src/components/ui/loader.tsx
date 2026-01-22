@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     width: 10,
     height: 10,
     borderRadius: 5,
-    backgroundColor: '#007AFF', // Цвет вашего бренда
+    backgroundColor: '#007AFF', 
   },
 });
 

@@ -90,6 +90,6 @@ export const fetchRewards = createAsyncThunk(
 );
 
 export const { COLLECT_REWARD } = rewardsSlice.actions;
-export const rewardsAdapterSelectors = rewardsAdapter.getSelectors(); // Селекторы без привязки к стейту
+export const rewardsAdapterSelectors = rewardsAdapter.getSelectors();
 
 export default rewardsSlice.reducer;
